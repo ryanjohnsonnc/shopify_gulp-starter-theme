@@ -1,0 +1,16 @@
+{
+  "name": "shopify_gulp-starertheme",
+  "version": "1.0.0",
+  "author": "Ryan Johnson",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-cssimport": "^3.0.2",
+    "gulp-watch": "^4.3.6"
+  }
+}

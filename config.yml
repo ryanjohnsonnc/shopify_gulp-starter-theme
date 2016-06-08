@@ -1,0 +1,12 @@
+---
+:api_key: 60836ebd2af12490d4817d4be1d6f795
+:password: fb81f137c9fc8463ac92f873560ac3af
+:store: roadmaster-3.myshopify.com
+:theme_id: 
+:whitelist_files:
+- layout/
+- assets/
+- config/
+- snippets/
+- templates/
+- locales/
